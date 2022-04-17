@@ -1,6 +1,6 @@
 CXX			= gcc 
 OBJS		= main.o
-PROG		= db
+PROG		= ezdb
 
 all: 		$(PROG)
 
